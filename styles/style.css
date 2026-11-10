@@ -1,0 +1,36 @@
+
+.parte1{
+    background-image: url(../assets/images/angel.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 1100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 108px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blanco{
+    color: #fdfdfd;
+}
+.gris{
+    color: gray;
+}
+h1{
+    padding: 0 0 80px 0;
+}
+.parte3{
+    background-image: url(../assets/images/raptis.png);
+    background-size: cover;
+    background-position: center;
+    height: 730px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.fin{
+    color: #fdfdfd;
+}
